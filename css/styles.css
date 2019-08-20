@@ -1,0 +1,20 @@
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        background-color:#e9ecef
+
+}
+body{
+  background-image: url("../images/ghana.jpg");
+}
+form {
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
